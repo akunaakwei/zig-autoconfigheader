@@ -1,0 +1,12 @@
+.{
+    .name = .autoconfigheader,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.15.2",
+    .paths = .{
+        "AutoConfigHeaderStep.zig",
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+    },
+    .fingerprint = 0xb6bbd023653fb133,
+}
